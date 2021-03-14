@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magedown
-- 👀 I’m interested in Energy engineering, bioscience, new technologies 
+- 👀 I’m interested in energy engineering, financial modeling, bioscience, new technologies 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me through github
